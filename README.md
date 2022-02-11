@@ -10,5 +10,4 @@
 
 ![](https://komarev.com/ghpvc/?username=DivyamSamarwal)
 
-[![Divyam's github activity graph](https://activity-graph.herokuapp.com/graph?username=DivyamSamarwal=compact&theme=react-dark)](https://github.com/DivyamSamarwal)
 
