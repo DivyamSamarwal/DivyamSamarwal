@@ -6,7 +6,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DivyamSamarwal&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamSamarwal&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamSamarwal&theme=algolia&bor)
 
 ![](https://komarev.com/ghpvc/?username=DivyamSamarwal)
 
