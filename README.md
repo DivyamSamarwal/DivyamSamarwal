@@ -9,5 +9,5 @@ Hi...
 
 
 ![](https://komarev.com/ghpvc/?username=DivyamSamarwal)
-![Profile views](https://gpvc.arturio.dev/[DivyamSamarwal])
+
 
