@@ -24,6 +24,7 @@
 <p align="center">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DivyamSamarwal&theme=react-dark"/>
 </p>
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -46,6 +47,7 @@
     </td>
   </tr>
 </table>
+
 ![](https://komarev.com/ghpvc/?username=DivyamSamarwal)
 
 
