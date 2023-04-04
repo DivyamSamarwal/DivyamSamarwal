@@ -24,7 +24,28 @@
 <p align="center">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DivyamSamarwal&theme=react-dark"/>
 </p>
-
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="./assets/python.svg" width="48" height="48" alt="python" />
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/rust.svg" width="48" height="48" alt="java" />
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/react.svg" width="48" height="48" alt="react" />
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/javascript.svg" width="48" height="48" alt="javascript" />
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/html-5.svg" width="48" height="48" alt="html-5" />
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/css-3.svg" width="48" height="48" alt="css-3" />
+    </td>
+  </tr>
+</table>
 ![](https://komarev.com/ghpvc/?username=DivyamSamarwal)
 
 
