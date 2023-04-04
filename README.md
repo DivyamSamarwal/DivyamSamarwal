@@ -7,10 +7,10 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=DivyamSamarwal&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=DivyamSamarwal&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamSamarwal&theme=tokyonight)
-
+<p align="center">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DivyamSamarwal&theme=react-dark"/>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=DivyamSamarwal)
 
