@@ -3,11 +3,24 @@
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/780721106838618112)
 
+  <p align="center">
+    <a href="https://github.com/DivyamSamarwal">
+      <img
+        align="center"
+        height="150em"
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DivyamSamarwal&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+      />
+    </a>
+    <a href="https://github.com/DivyamSamarwal">
+      <img
+        align="center"
+        height="150em"
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DivyamSamarwal&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+      />
+    </a>
+  </p>
+</p>
 
-
-![](https://github-readme-stats.vercel.app/api?username=DivyamSamarwal&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamSamarwal&theme=tokyonight)
 <p align="center">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DivyamSamarwal&theme=react-dark"/>
 </p>
