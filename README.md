@@ -1,7 +1,5 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&color=00FFFF&lines=Hi!+I'm+Divyam+Samarwal)](https://git.io/typing-svg)
-[monkeytype.badge]: https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh
-![!monkeytype.badge]
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/780721106838618112)
 ![](https://komarev.com/ghpvc/?username=DivyamSamarwal)
   <p align="center">
