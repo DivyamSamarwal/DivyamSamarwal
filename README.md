@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DivyamSamarwal&theme=react-dark"/>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DivyamSamarwal&theme=tokyonight"/>
 </p>
 <table>
   <tr>
