@@ -20,9 +20,6 @@
   </p>
 </p>
 
-<p align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DivyamSamarwal&theme=tokyonight"/>
-</p>
 <table>
   <tr>
     <td align="center" width="96">
