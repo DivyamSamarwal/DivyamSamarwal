@@ -26,7 +26,7 @@
       <img src="./assets/languages/python.svg" width="48" height="48" alt="python" />
     </td>
     <td align="center" width="96">
-      <img src="./assets/languages/rust.svg" width="48" height="48" alt="java" />
+      <img src="./assets/languages/tex.png" width="48" height="48" alt="tex" />
     </td>
     <td align="center" width="96">
       <img src="./assets/languages/react.svg" width="48" height="48" alt="react" />
@@ -40,5 +40,8 @@
     <td align="center" width="96">
       <img src="./assets/languages/css-3.svg" width="48" height="48" alt="css-3" />
     </td>
+    <td align="center" width="96">
+      <img src="./assets/languages/rust.svg" width="48" height="48" alt="rust" />
+    </td>    
   </tr>
 </table>
