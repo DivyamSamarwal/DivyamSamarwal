@@ -1,6 +1,19 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&color=7DF9FF&lines=Hi!+I'm+Divyam)](https://git.io/typing-svg)
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DivyamSamarwal&theme=monokai
+<details> 
+  <summary>Settings</summary>
+  <div>
+  <samp>
+    <h2 align="center"> Summary </h2>
+      <br/>
+    <details open>
+  <summary><h3>Summary</h3></summary>
+            <p align="center">
+        <a href="https://github.com/DivyamSamarwal/">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DivyamSamarwal&theme=monokai"
+          alt="DivyamSamarwal :: overall Summary " /></a>
+      </p>
+</details>   
 <details>
   <summary>☎️ Contact me</summary>
 <div>
