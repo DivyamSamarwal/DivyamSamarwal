@@ -53,12 +53,4 @@
      </samp>
   </div>    
 </details>
-<details>
-  <summary>📈 Latest Activity Graph</summary>
-  <samp>
-  <br/>
-  <h2 align="center"> latest contribution </h2>
-  <img alt="Divyam's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=DivyamSamarwal&theme=github-compact&hide_border=true" /></a>
-<br/>
-  </samp>
-  </details>
+
