@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&color=7DF9FF&lines=Hi!+I'm+Divyam)](https://git.io/typing-svg)
 <details> 
-  <summary>Settings</summary>
+  <summary>Summary</summary>
   <div>
   <samp>
     <h2 align="center"> Summary </h2>
@@ -13,7 +13,8 @@
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DivyamSamarwal&theme=monokai"
           alt="DivyamSamarwal :: overall Summary " /></a>
       </p>
-</details>   
+</details>  
+    
 <details>
   <summary>☎️ Contact me</summary>
 <div>
@@ -43,14 +44,14 @@
   <summary><h3>Languages</h3></summary>
             <p align="center">
         <a href="https://github.com/DivyamSamarwal/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamSamarwal&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamSamarwal&langs_count=6&theme=monokai&layout=compact&hide_border=true"
           alt="DivyamSamarwal :: overall Top Langs " /></a>
       </p>
         <p align="center">
           <a href="https://github.com/DivyamSamarwal/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DivyamSamarwal&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DivyamSamarwal&theme=monokai&layout=compact&hide_border=true"
           alt="DivyamSamarwal :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DivyamSamarwal&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DivyamSamarwal&theme=monokai&layout=compact&hide_border=true"
           alt="DivyamSamarwal :: Top Langs by commit" />
           </a>
         </p>
@@ -59,8 +60,8 @@
   <summary><h3>stasistic</h3></summary>
         <p align="center">
           <a href="https://github.com/DivyamSamarwal/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=DivyamSamarwal&show_icons=true&theme=github-compact&hide_border=true" />
-          <img width="49.5%" src="https://fabianocouto-activity-graph.vercel.app/graph/?username=DivyamSamarwal&theme=github-compact" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=DivyamSamarwal&show_icons=true&theme=monokai&hide_border=true" />
+          <img width="49.5%" src="https://fabianocouto-activity-graph.vercel.app/graph/?username=DivyamSamarwal&theme=monokai" />
           </a>
        </p>
      <br>
