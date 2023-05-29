@@ -45,8 +45,8 @@
   <summary><h3>stasistic</h3></summary>
         <p align="center">
           <a href="https://github.com/DivyamSamarwal/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=DivyamSamarwal&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://fabianocouto-activity-graph.vercel.app/graph/?username=DivyamSamarwal" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=DivyamSamarwal&show_icons=true&theme=github-compact&hide_border=true" />
+          <img width="49.5%" src="https://fabianocouto-activity-graph.vercel.app/graph/?username=DivyamSamarwal&theme=github-compact" />
           </a>
        </p>
      <br>
