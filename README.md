@@ -22,5 +22,16 @@
           </a>
         </p>
 </details>
-
+    <details open>
+  <summary><h3>stasistic</h3></summary>
+        <p align="center">
+          <a href="https://github.com/DivyamSamarwal/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=DivyamSamarwal&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyamSamarwal&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+     <br>
+     </samp>
+  </div>    
+</details>
 
