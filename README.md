@@ -4,7 +4,7 @@
   <summary>☎️ contact me</summary>
 <div>
   <samp>
-    <h2 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&color=7DF9FF&lines=Contact+Me)](https://git.io/typing-svg)</h2>
+    <h2 align="center">Contact Me</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/divyam-samarwal-279107228/" target="blank"><img align="center"
