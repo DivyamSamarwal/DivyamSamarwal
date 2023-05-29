@@ -4,7 +4,7 @@
   <summary>☎️ contact me</summary>
 <div>
   <samp>
-    <h2 align="center">Contact Me</h2>
+    <h2 align="center">Social Media</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/divyam-samarwal-279107228/" target="blank"><img align="center"
