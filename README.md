@@ -1,13 +1,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&color=7DF9FF&lines=Hi!+I'm+Divyam)](https://git.io/typing-svg)
 <details> 
-  <summary>Summary</summary>
+  <summary>User Summary</summary>
   <div>
   <samp>
     <h2 align="center"> Summary </h2>
       <br/>
     <details open>
-  <summary><h3>Summary</h3></summary>
+  <summary><h3>User Graph</h3></summary>
             <p align="center">
         <a href="https://github.com/DivyamSamarwal/">
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DivyamSamarwal&theme=monokai"
