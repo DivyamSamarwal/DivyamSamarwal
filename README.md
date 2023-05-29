@@ -13,6 +13,8 @@
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DivyamSamarwal&theme=monokai"
           alt="DivyamSamarwal :: overall Summary " /></a>
       </p>
+    </samp>
+    </div>
 </details>  
     
 <details>
