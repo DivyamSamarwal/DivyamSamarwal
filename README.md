@@ -17,25 +17,6 @@
     </div>
 </details>  
     
-<details>
-  <summary>☎️ Contact me</summary>
-<div>
-  <samp>
-    <h2 align="center">Social Media</h2>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/divyam-samarwal-279107228/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="Divyam" height="30"/></a>      
-    <a href="https://twitter.com/DivyamSamarwal" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="Divyam" height="30"/></a>
-      <br>
-    </p>
-  </samp>
-</div>  
-</details>
-
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
