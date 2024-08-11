@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=GeorgiaSet&size=32&color=7DF9FF&lines=Hi!+I'm+Divyam)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=PoppinsSet&size=32&color=7DF9FF&lines=Hi!+I'm+Divyam)](https://git.io/typing-svg)
 <details> 
   <summary>⚙️User Summary</summary>
   <div>
